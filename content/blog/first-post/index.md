@@ -2,7 +2,7 @@
 title: Beginning a blog
 date: 2020-08-16T23:05:03.537Z
 description: a poem to set the tone - and explain the name
-tags: "poetry,generalist,art "
+tags: [poetry,generalist,art]
 ---
 # Neither Bloody nor Bowed
 
