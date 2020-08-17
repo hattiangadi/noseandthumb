@@ -2,6 +2,7 @@
 title: Beginning a blog
 date: 2020-08-16T23:05:03.537Z
 description: a poem to set the tone - and explain the name
+thumbnail: ./1024px-cocking_a_snook_ashton-under-lyne.jpeg
 tags:
   - poetry
   - generalist
