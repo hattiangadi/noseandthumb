@@ -3,7 +3,10 @@ title: Modern slavery and supply chains
 date: 2020-08-17T18:02:33.645Z
 description: Response to Tyler Cowen's comment in Bloomberg on the "Slave free business act"
 tags:
-  - "#economics #development #apparel"
+  - economics
+  - development
+  - apparel
+  - food
 thumbnail: 6835650523_63c5af93b4_c.jpg
 ---
 ### Good economics vs. bad liberals 
