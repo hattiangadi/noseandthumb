@@ -6,7 +6,7 @@ tags:
   - poetry
   - generalist
   - art
-thumbnail: ./1024px-cocking_a_snook_ashton-under-lyne.jpeg
+thumbnail: cropped-snook.jpeg
 ---
 I'm interested in too many things to be good - like really good - at any of them. I spend most of my time thinking about food and cooking and some combination of business/management/economics. My parents took me to art and fabric shows when I was a child, and though I remember that experience being mildly traumatic, when I grew up I developed interests in art and traditional American workwear fabrics. 
 
