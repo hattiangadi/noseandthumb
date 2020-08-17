@@ -2,13 +2,21 @@
 title: Beginning a blog
 date: 2020-08-16T23:05:03.537Z
 description: a poem to set the tone - and explain the name
-thumbnail: ./1024px-cocking_a_snook_ashton-under-lyne.jpeg
 tags:
   - poetry
   - generalist
   - art
+thumbnail: ./1024px-cocking_a_snook_ashton-under-lyne.jpeg
 ---
-I'm a devoted generalist - this blog is my space to ruminate about a variety of subjects. 
+I'm interested in too many things to be good - like really good - at any of them. I spend most of my time thinking about food and cooking and some combination of business/management/economics. My parents took me to art and fabric shows when I was a child, and though I remember that experience being mildly traumatic, when I grew up I developed interests in art and traditional American workwear fabrics. 
+
+This is a great time to be interested in lots of things! Lots of experts write about the things they are interested in, and I love that we can surf the collective knowledge of millions of people generated over centuries. 
+
+And yet this present collective expertise is intimidating to a generalist like me - and it is the reason I've not really had a blog or web presence till now. Why read me, when there are a lot of experts? A lot of amateur writing is obviously, if not intentionally, misinformed, and I don't want to add to that corpus either. 
+
+So what is an amateurist, a generalist to do? I plan to write mostly at the intersection of various areas where the coverage appears to be somewhat light. I plan to point to things that I read and learn that seem to me to be particularly interesting. 
+
+And then there is just - thinking out loud. I may not be an expert, but I have thoughts that I think are interesting or fun, and I plan to share them. I take my inspiration from Dorothy Parker...
 
 > #### Neither Bloody nor Bowed
 > They say of me, and so they should,\
@@ -20,4 +28,6 @@ I'm a devoted generalist - this blog is my space to ruminate about a variety of 
 > But I, despite expert advice,\
 > Keep doing things I think are nice,\
 > And though to good I never come-\
-> Inseparable my nose and thumb!
+> Inseparable my nose and thumb! \
+>\
+>      - Dorothy Parker
