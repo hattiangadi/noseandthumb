@@ -1,7 +1,7 @@
 ---
 title: Modern slavery and supply chains
 date: 2020-08-17T18:02:33.645Z
-description: Response to Tyler Cowen's comment in Bloomberg on the "Slave free business act"
+description: Response to Tyler Cowen's comment in Bloomberg on the "Slave-free Business Act"
 tags:
   - economics
   - development
