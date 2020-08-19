@@ -42,13 +42,11 @@ class Layout extends Component {
           </Link>
           <div className="nav-container">
             <ul className="header-nav">
+            </ul>
+            <ul className="header-link">
               <li id="header-nav-first"><Link to={`/tags`}>Tags</Link></li>
               <li><Link to={`/search`}>Search</Link></li>
               <li>{toggler}</li>
-            </ul>
-            <ul className="header-link">
-              <li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a></li>
-              <li><a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
             </ul>
           </div>
         </div>
