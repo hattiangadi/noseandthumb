@@ -3,7 +3,10 @@ title: Cooking like jazz - motivation
 date: 2020-08-18T23:24:44.399Z
 description: how to use recipes
 tags:
-  - "#cookinglikejazz #music #food #cooking"
+  - cookinglikejazz
+  - music
+  - food
+  - cooking
 thumbnail: lan-pham-slyyenc6qzy-unsplash.jpg
 ---
 One of my earliest memories about recipes and cooking was hearing people in my parent's generation making fun of their parents for not measuring things while cooking. A typical example - use a little salt, a lot of pepper, fry till it's cooked, garnish with a handful of cilantro. How frustrating! How are these doting children to replicate mom's cooking with this level of ambiguity?
