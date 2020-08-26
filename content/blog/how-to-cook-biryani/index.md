@@ -52,7 +52,7 @@ Cooking the meat - bbq, uncooked, deep fried, curry
 
 Marinating the meat - chilli powder/turmeric/salt, yoghurt, other spices, papaya (to tenderize meat), no marinade
 
-Curry: Fried onions w/ ginger/garlic, Tomatoes (cooked dark/dry to accentuate umami flavors or looser to add sourness and more "tomatoey" flavor). Yoghurt, Mawa, ground nuts, lentils. Spices: Green chillies (or not), malabar spices, turmeric, chilli powder, cumin, coriander
+Curry: Fried onions w/ ginger/garlic, Tomatoes (cooked dark/dry to accentuate umami flavors or looser to add sourness and more "tomatoey" flavor). Yoghurt, Mawa, ground nuts, lentils, ground coconut, coconut milk. Spices: Green chillies (or not), malabar spices, turmeric, chilli powder, cumin, coriander
 
 Pre-cooking the meat with the curry - pre-sear, reverse sear, no sear. Slow cook, sous vide or use a pressure cooker. 
 
@@ -63,6 +63,9 @@ Cooking the finished dish: Layer rice and meat (starting with rice to get crunch
 Tahdig: If going for tahdig style crunchy rice, make sure the meat curry is very dry (If the liquid filters to the bottom through the rice it'll ruin the crunch). Start with a layer of ghee on the bottom of the pot, warm it, then add half the pre-cooked rice, meat, rice, luxurious touches, and cook on the stove top for 10-15 min.
 
 Cook on the stove or in the oven (or in a pit with charcoals if feeling especially adventurous). 
+
+## What's your influence?
+What are you going to add to the world of biryani? A chinese biryani? (Chinese rice clay pots - that's a whole different adventure!) A southern bbq biryani? Have fun - and be sure to let me know how it goes!
 
 
 Image [source](https://commons.wikimedia.org/wiki/File:Lahori_Biryani.jpg), credit: [Muhammad Umair Mirza](https://commons.wikimedia.org/wiki/User:Muhammad_Umair_Mirza)
