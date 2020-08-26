@@ -1,5 +1,5 @@
 ---
-title: How to cook biryani
+title: "Cooking like jazz: Biryani"
 date: 2020-08-25T19:46:52.609Z
 description: "A #cookinglikejazz approach to biryani"
 tags:
