@@ -1,5 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+import { DiscussionEmbed } from "disqus-react"
 import Img from "gatsby-image"
 
 import Layout from "../components/layout"
@@ -8,11 +9,17 @@ import Tags from "../components/tags"
 
 import "../styles/style.css"
 
+
+
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
     const { previous, next } = this.props.pageContext
+    const disqusConfig = {
+      shortname: process.env.GATSBY_DISQUS_NAME,
+      config: { identifier: post.slug },
+    }
 
     return (
       <Layout title={siteTitle}>
@@ -37,6 +44,7 @@ class BlogPostTemplate extends React.Component {
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
           <Tags tags={post.frontmatter.tags}/>
         </article>
+        <DiscussionEmbed {...disqusConfig} />
         <hr className="contour"/>
         <nav>
           <ul className="post-nav">
