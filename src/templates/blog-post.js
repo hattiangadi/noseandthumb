@@ -15,7 +15,7 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
-    const siteURL = this.props.data.site.siteMetadata.siteURL
+    const siteUrl = this.props.data.site.siteMetadata.siteURL
     const { previous, next } = this.props.pageContext
     const disqusConfig = {
       shortname: process.env.GATSBY_DISQUS_NAME,
@@ -27,7 +27,7 @@ class BlogPostTemplate extends React.Component {
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
-          image={siteURL.concat(post.frontmatter.thumbnail.childImageSharp.fixed.src,)}
+          image={siteUrl.concat(post.frontmatter.thumbnail.childImageSharp.fixed.src,)}
           article={true}
         />
         <hr className="contour"/>
@@ -85,7 +85,7 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
-        siteURL
+        siteUrl
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
