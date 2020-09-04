@@ -15,7 +15,7 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
-    const siteUrl = this.props.data.site.siteMetadata.siteURL
+    const siteUrl = this.props.data.site.siteMetadata.siteUrl
     const { previous, next } = this.props.pageContext
     const disqusConfig = {
       shortname: process.env.GATSBY_DISQUS_NAME,
