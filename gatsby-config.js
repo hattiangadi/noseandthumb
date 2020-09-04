@@ -5,7 +5,7 @@ module.exports = {
     title: `Nose and thumb`,
     author: `Anand Hattiangadi`,
     description: `A general blog by a generalist`,
-    siteUrl: `https://noseandthumb.com`,
+    siteURL: `https://noseandthumb.com`,
     image: `/content/blog/first-post/cropped-snook.jpeg`,
     social: {
       twitter: `@homechef`,
