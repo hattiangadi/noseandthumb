@@ -3,11 +3,12 @@ const remark = require("remark");
 module.exports = {
   siteMetadata: {
     title: `Nose and thumb`,
-    author: `Vaporwavy`,
-    description: `A blog for minimalist`,
-    siteUrl: `https://vapor.aesthetic.codes/`,
+    author: `Anand Hattiangadi`,
+    description: `A general blog by a generalist`,
+    siteUrl: `https://noseandthumb.com`,
+    image: `/content/blog/first-post/cropped-snook.jpeg`,
     social: {
-      twitter: ``,
+      twitter: `@homechef`,
     },
   },
   plugins: [
