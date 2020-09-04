@@ -14,6 +14,12 @@ module.exports = {
   plugins: [
     `gatsby-plugin-netlify-cms`,
     {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-177199742-1",
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,
